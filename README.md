@@ -1,6 +1,6 @@
 # Zomato Analytics CLI
 
-Zomato Analytics is a CLI tool that fetches orders from your Zomato account and displays basic stats like expenditure per month, weekday wise distribution and more. 
+Zomato Analytics is a CLI tool that fetches orders from your Zomato account and displays basic stats like expenditure per month, weekday wise distribution and more. It has been very much inspired by `swiggy-anaytics`. 
 
 ## Security 
 
